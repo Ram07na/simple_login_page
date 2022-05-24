@@ -1,0 +1,48 @@
+body{
+    margin: auto;
+    background-image: url("bg.png");
+    background-repeat: no-repeat;
+    background-color:lightpink;
+    background-position-x: center;
+    background-position-y: center;
+   background-size: cover;
+
+  
+  
+}
+#box{
+    border:8px solid gold;
+    text-align: center;
+     border-radius: 5px ;
+     border-width: 20px;
+     padding-bottom: 15px;
+}
+#f1{
+    
+    text-align: center;
+    position: relative;
+    top:20px;
+    
+}
+#header{
+    text-align:center;
+    color:black
+}
+#l1{
+    padding-left:48%;
+
+}
+
+
+
+#b_right{
+float: right;
+padding-bottom: -45px;
+
+
+}
+#lo{
+    padding-right:25px;
+    padding-top: 11px;
+
+}
